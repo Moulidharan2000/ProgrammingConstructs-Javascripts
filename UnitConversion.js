@@ -1,0 +1,10 @@
+let feet = 12;
+let inch = 42;
+console.log(inch+" Inch = "+inch/feet+" Feet");
+let meter = 0.3048;
+let plotL = 60;
+let plotB = 40;
+console.log("Rectangular Plot 60 feet x 40 feet is : "+meter*plotL*plotB+" Meters");
+let plots = 25;
+let acre = 6;
+console.log("Area of 25 Plots is : "+plots/acre+" Acres");
